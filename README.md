@@ -1,5 +1,10 @@
-# python_para_investimentos
+# Python para Investimentos
 Aplicações de Python para Finanças e Investimentos usando o Google Colab:
+
+✅ 𝐈𝐍𝐂𝐑𝐄𝐕𝐀-𝐒𝐄 𝐍𝐎 𝐂𝐀𝐍𝐀𝐋
+https://www.youtube.com/ricospeloacaso?sub_confirmation=1
+
+✅ 𝐏𝐘𝐓𝐇𝐎𝐍 𝐏𝐀𝐑𝐀 𝐈𝐍𝐕𝐄𝐒𝐓𝐈𝐌𝐄𝐍𝐓𝐎𝐒 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎:
 
 🎬 1 - Obtendo cotações do Yahoo Finance: https://youtu.be/7GGrt3-rRH8
 
@@ -17,6 +22,26 @@ Aplicações de Python para Finanças e Investimentos usando o Google Colab:
 
 🎬 8 - Obtendo e trabalhando com dados dos balanços | Classificando empresas segundo a Magic Formula: https://youtu.be/e_ZRDG4F4ZA
 
-🎬 9 - ALPHA VANTAGE: Obtendo Cotações de Empresas Brasileiras com PYTHON https://youtu.be/kB4jCoVyLRI
+🎬 9 - ALPHA VANTAGE: Obtendo Cotações de Empresas Brasileiras com PYTHON
+https://youtu.be/kB4jCoVyLRI
 
-🎬 10 -COMO ACESSAR A BASE DE DADOS DO BANCO CENTRAL DO BRASIL COM PYTHON https://youtu.be/7rFsu48oBn8
+🎬 10 -COMO ACESSAR A BASE DE DADOS DO BANCO CENTRAL DO BRASIL COM PYTHON
+https://youtu.be/7rFsu48oBn8
+
+🎬 11 - ACESSANDO DADOS DO INVESTING.COM COM PYTHON: Fundos de Investimento
+https://youtu.be/PfLqj1UWafc
+
+🎬 12 - ACESSANDO DADOS DO INVESTING.COM COM PYTHON #2: Índices e Ações
+https://youtu.be/Tv2-BGOLf9E
+
+🎬 13 - CURVA DE JUROS COM PYTHON (PLOTLY) E DADOS DO INVESTING.COM
+https://youtu.be/JmpZQAIDboo
+
+🎬 14 - GOOGLE COLAB e GOOGLE PLANILHAS INTEGRADOS: Salvando Dados na Nuvem com PYTHON
+https://youtu.be/YaCeqXpxWUk
+
+🎬 15 - SALVANDO PREÇOS HISTÓRICOS (COM PYTHON) de TODAS as AÇÕES do ÍNDICE BOVESPA no GOOGLE PLANILHAS
+https://youtu.be/HlhbsrJ4_PQ
+
+🎬 16 - DADOS CVM DE FUNDOS DE INVESTIMENTO: Como obter e tratar com PYTHON
+https://youtu.be/NHCUUZOvk7k
