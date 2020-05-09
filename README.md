@@ -51,8 +51,13 @@ https://ricospeloacaso.com.br/
 
 ✅ 𝐍𝐎𝐒 𝐒𝐈𝐆𝐀 𝐍𝐀𝐒 𝐑𝐄𝐃𝐄𝐒 𝐒𝐎𝐂𝐈𝐀𝐈𝐒:
 https://www.youtube.com/ricospeloacaso
+
 https://www.instagram.com/ricospeloacaso
+
 https://www.facebook.com/ricospeloacaso
+
 https://twitter.com/ricospeloacaso
+
 https://t.me/ricospeloacaso
+
 https://github.com/ricospeloacaso
