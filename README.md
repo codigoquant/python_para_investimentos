@@ -45,3 +45,14 @@ https://youtu.be/HlhbsrJ4_PQ
 
 🎬 16 - DADOS CVM DE FUNDOS DE INVESTIMENTO: Como obter e tratar com PYTHON
 https://youtu.be/NHCUUZOvk7k
+
+✅ 𝐍𝐎𝐒𝐒𝐎 𝐁𝐋𝐎𝐆
+https://ricospeloacaso.com.br/
+
+✅ 𝐍𝐎𝐒 𝐒𝐈𝐆𝐀 𝐍𝐀𝐒 𝐑𝐄𝐃𝐄𝐒 𝐒𝐎𝐂𝐈𝐀𝐈𝐒:
+https://www.youtube.com/ricospeloacaso
+https://www.instagram.com/ricospeloacaso
+https://www.facebook.com/ricospeloacaso
+https://twitter.com/ricospeloacaso
+https://t.me/ricospeloacaso
+https://github.com/ricospeloacaso
