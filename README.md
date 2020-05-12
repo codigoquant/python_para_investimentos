@@ -1,7 +1,7 @@
 # Python para Investimentos
 Aplicações de Python para Finanças e Investimentos usando o Google Colab:
 
-✅ 𝐈𝐍𝐂𝐑𝐄𝐕𝐀-𝐒𝐄 𝐍𝐎 𝐂𝐀𝐍𝐀𝐋
+✅ 𝐈𝐍𝐒𝐂𝐑𝐄𝐕𝐀-𝐒𝐄 𝐍𝐎 𝐂𝐀𝐍𝐀𝐋:
 https://www.youtube.com/ricospeloacaso?sub_confirmation=1
 
 ✅ 𝐏𝐘𝐓𝐇𝐎𝐍 𝐏𝐀𝐑𝐀 𝐈𝐍𝐕𝐄𝐒𝐓𝐈𝐌𝐄𝐍𝐓𝐎𝐒 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎:
