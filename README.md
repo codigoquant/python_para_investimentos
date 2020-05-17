@@ -1,5 +1,5 @@
 # Python para Investimentos
-Aplicações de Python para Finanças e Investimentos usando o Google Colab:
+Aplicações de Python para Finanças e Investimentos:
 
 ✅ 𝐈𝐍𝐒𝐂𝐑𝐄𝐕𝐀-𝐒𝐄 𝐍𝐎 𝐂𝐀𝐍𝐀𝐋:
 https://www.youtube.com/ricospeloacaso?sub_confirmation=1
@@ -45,6 +45,13 @@ https://youtu.be/HlhbsrJ4_PQ
 
 🎬 16 - DADOS CVM DE FUNDOS DE INVESTIMENTO: Como obter e tratar com PYTHON
 https://youtu.be/NHCUUZOvk7k
+
+🎬 17 - 10 MELHORES E PIORES FUNDOS DE INVESTIMENTO EM 2020: obtendo e tratando dados da CVM com Python
+https://youtu.be/dIqYBI7cvZ0
+
+🎬 18 - COLETANDO DADOS DA B3: Web Scraping das Carteiras Teoricas de Índices
+https://youtu.be/GEeuYkgq79E
+
 
 ✅ 𝐍𝐎𝐒𝐒𝐎 𝐁𝐋𝐎𝐆
 https://ricospeloacaso.com.br/
