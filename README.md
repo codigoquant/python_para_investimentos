@@ -1,5 +1,5 @@
 # Python para Investimentos
-Aplicações de Python para Finanças e Investimentos:
+**Python para Investimentos** é um conjunto de códigos e vídeos em que mostro como utilizar a linguagem de programação PYTHON através da ferramenta online Google Colab para fazer estudos no mercado financeiro.
 
 ✅ 𝐈𝐍𝐒𝐂𝐑𝐄𝐕𝐀-𝐒𝐄 𝐍𝐎 𝐂𝐀𝐍𝐀𝐋:
 https://www.youtube.com/ricospeloacaso?sub_confirmation=1
