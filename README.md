@@ -52,8 +52,11 @@ https://youtu.be/dIqYBI7cvZ0
 🎬 18 - COLETANDO DADOS DA B3: Web Scraping das Carteiras Teoricas de Índices
 https://youtu.be/GEeuYkgq79E
 
+🎬 19 - DADOS DA BOLSA NO EXCEL COM PYTHON: Exportando do GOOGLE COLAB para uma PLANILHA
+https://youtu.be/zekmnLPvqTM
 
-✅ 𝐍𝐎𝐒𝐒𝐎 𝐁𝐋𝐎𝐆
+---
+✅ 𝐁𝐋𝐎𝐆
 https://ricospeloacaso.com.br/
 
 ✅ 𝐍𝐎𝐒 𝐒𝐈𝐆𝐀 𝐍𝐀𝐒 𝐑𝐄𝐃𝐄𝐒 𝐒𝐎𝐂𝐈𝐀𝐈𝐒:
