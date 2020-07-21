@@ -66,12 +66,12 @@ https://ricospeloacaso.com.br/
 
 https://www.youtube.com/ricospeloacaso
 
-https://www.instagram.com/ricospeloacaso
+https://www.instagram.com/codigoquant
 
-https://www.facebook.com/ricospeloacaso
+https://www.facebook.com/codigoquant
 
-https://twitter.com/ricospeloacaso
+https://twitter.com/codigoquant
 
-https://t.me/ricospeloacaso
+https://t.me/codigoquant
 
-https://github.com/ricospeloacaso
+https://github.com/codigoquant
