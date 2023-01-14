@@ -5,6 +5,8 @@
 
 ✅ 𝐏𝐘𝐓𝐇𝐎𝐍 𝐏𝐀𝐑𝐀 𝐈𝐍𝐕𝐄𝐒𝐓𝐈𝐌𝐄𝐍𝐓𝐎𝐒 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎:
 
+🎬 Playlist Completa: https://www.youtube.com/watch?v=7GGrt3-rRH8&list=PLCAhGm8nJ9CBn51o0x3j1p1LuMRqpeqCy
+
 🎬 1 - Obtendo cotações do Yahoo Finance: https://youtu.be/7GGrt3-rRH8
 
 🎬 2 - Definindo intervalos, calculando e plotando médias móveis: https://youtu.be/BBomKv3NFNc
