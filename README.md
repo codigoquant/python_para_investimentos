@@ -3,10 +3,6 @@
 **Python para Investimentos** é um conjunto de códigos e vídeos em que mostro como utilizar a linguagem de programação PYTHON através da ferramenta online Google Colab para fazer estudos no mercado financeiro.
 
 
-✅ 𝐈𝐍𝐒𝐂𝐑𝐄𝐕𝐀-𝐒𝐄 𝐍𝐎 𝐂𝐀𝐍𝐀𝐋:
-https://www.youtube.com/ricospeloacaso?sub_confirmation=1
-
-
 ✅ 𝐏𝐘𝐓𝐇𝐎𝐍 𝐏𝐀𝐑𝐀 𝐈𝐍𝐕𝐄𝐒𝐓𝐈𝐌𝐄𝐍𝐓𝐎𝐒 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎:
 
 🎬 1 - Obtendo cotações do Yahoo Finance: https://youtu.be/7GGrt3-rRH8
@@ -59,19 +55,15 @@ https://youtu.be/GEeuYkgq79E
 https://youtu.be/zekmnLPvqTM
 
 ---
-✅ 𝐁𝐋𝐎𝐆
-https://ricospeloacaso.com.br/
 
 ✅ 𝐑𝐄𝐃𝐄𝐒 𝐒𝐎𝐂𝐈𝐀𝐈𝐒:
 
-https://www.youtube.com/ricospeloacaso
+https://www.youtube.com/@codigoquant
 
 https://www.instagram.com/codigoquant
 
 https://www.facebook.com/codigoquant
 
 https://twitter.com/codigoquant
-
-https://t.me/codigoquant
 
 https://github.com/codigoquant
